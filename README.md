@@ -5,7 +5,7 @@
 - Pros:Cheap
 - Cons: Some one need To pin our Data
 
-3. Dynamic SVG NFT
+3. Dynamic SVG NFT ✔
 - Pros: The is on Chain!
 - Cons: Much More Expensive 
 
